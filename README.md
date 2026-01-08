@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @owais194
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Cross platform development ( flutter ) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me owaismustafa2000@gmail.com / owaismustafa1000@yahoo.com
+Hi, I’m Owais Mustafa 
 
-<!---
-owais194/owais194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Technical Writer with a developer background, focused on API, product, and internal developer documentation for software and engineering teams.
+
+Background  
+- Started technical writing in 2022 as a freelancer  
+- Delivered 50+ documentation projects across SaaS, engineering, and construction domains  
+- Worked as a Flutter developer for 8+ months, which strengthened my ability to document APIs, integrations, and system behavior accurately  
+
+What I work on  
+- API & developer documentation  
+- Product guides, onboarding, and knowledge bases  
+- Internal engineering docs & workflows  
+- Compliance and process documentation  
+
+Why developer background matters  
+Because I understand how systems are built, I can document them the way developers and users actually think.
+
+Contact  
+- LinkedIn: https://www.linkedin.com/in/owais-mustafa-technical-writer  
+- Email: owaismustafa2000@gmail.com
